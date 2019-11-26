@@ -1,0 +1,11 @@
+C:\AlenooshTests\Exam70-487\Part22-WCFConfigureInCode\HelloService\HelloserviceHost\bin\Debug\HelloserviceHost.exe.config
+C:\AlenooshTests\Exam70-487\Part22-WCFConfigureInCode\HelloService\HelloserviceHost\bin\Debug\HelloserviceHost.exe
+C:\AlenooshTests\Exam70-487\Part22-WCFConfigureInCode\HelloService\HelloserviceHost\bin\Debug\HelloserviceHost.pdb
+C:\AlenooshTests\Exam70-487\Part22-WCFConfigureInCode\HelloService\HelloserviceHost\bin\Debug\HelloService.dll
+C:\AlenooshTests\Exam70-487\Part22-WCFConfigureInCode\HelloService\HelloserviceHost\bin\Debug\HelloService.pdb
+C:\AlenooshTests\Exam70-487\Part22-WCFConfigureInCode\HelloService\HelloserviceHost\bin\Debug\HelloService.dll.config
+C:\AlenooshTests\Exam70-487\Part22-WCFConfigureInCode\HelloService\HelloserviceHost\obj\Debug\HelloserviceHost.csprojAssemblyReference.cache
+C:\AlenooshTests\Exam70-487\Part22-WCFConfigureInCode\HelloService\HelloserviceHost\obj\Debug\HelloserviceHost.csproj.CoreCompileInputs.cache
+C:\AlenooshTests\Exam70-487\Part22-WCFConfigureInCode\HelloService\HelloserviceHost\obj\Debug\HelloserviceHost.csproj.CopyComplete
+C:\AlenooshTests\Exam70-487\Part22-WCFConfigureInCode\HelloService\HelloserviceHost\obj\Debug\HelloserviceHost.exe
+C:\AlenooshTests\Exam70-487\Part22-WCFConfigureInCode\HelloService\HelloserviceHost\obj\Debug\HelloserviceHost.pdb
